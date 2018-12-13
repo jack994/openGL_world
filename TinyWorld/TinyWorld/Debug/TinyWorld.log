@@ -1,0 +1,6 @@
+﻿  Core.cpp
+c:\users\giacomo\source\repos\tinyworld\tinyworld\core.cpp(407): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\giacomo\source\repos\tinyworld\tinyworld\core.cpp(422): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\giacomo\source\repos\tinyworld\tinyworld\core.cpp(461): warning C4018: '<': signed/unsigned mismatch
+c:\users\giacomo\source\repos\tinyworld\tinyworld\core.cpp(697): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TinyWorld.vcxproj -> C:\Users\Giacomo\source\repos\TinyWorld\Debug\TinyWorld.exe
