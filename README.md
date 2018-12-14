@@ -13,23 +13,28 @@ Sources: [GLEW](http://glew.sourceforge.net), [GLFW](http://www.glfw.org/downloa
 3) Make sure you select All Configurations and Active(Win32).  
 4) Update the links to the libraries (Use the appropriate path depending on where you saved your files  
   
-######VC++ Directories >> Include Directories:  
+**VC++ Directories >> Include Directories:**  
 - D:\GATemplate-master\glfw-3.2.1.bin.WIN32\include  
 - D:\GATemplate-master\glew-2.1.0\include  
 - D:\GATemplate-master\glm-0.9.9.1\  
-######VC++ Directories >> Reference Directories:  
+  
+**VC++ Directories >> Reference Directories:**
 - D:\GATemplate-master\glfw-3.2.1.bin.WIN32\lib-vc2015  
 - D:\GATemplate-master\glew-2.1.0\bin\Release\Win32  
-######VC++ Directories >> Library Directories:  
+  
+**VC++ Directories >> Library Directories:**  
 - D:\GATemplate-master\glfw-3.2.1.bin.WIN32\lib-vc2015  
 - D:\GATemplate-master\glew-2.1.0\lib\Release\Win32  
-######C/C++ >> Additional Include Directories:  
+  
+**C/C++ >> Additional Include Directories:**  
 - D:\GATemplate-master\glfw-3.2.1.bin.WIN32\include  
 - D:\GATemplate-master\glew-2.1.0\include  
-######Linker >> Additional Library Directories:
+  
+**Linker >> Additional Library Directories:**
 - D:\GATemplate-master\glfw-3.2.1.bin.WIN32\lib-vc2015
-- D:\GATemplate-master\glew-2.1.0\lib\Release\Win32
-######Linker >> Input >> Additional Dependencies:  
+- D:\GATemplate-master\glew-2.1.0\lib\Release\Win32  
+  
+**Linker >> Input >> Additional Dependencies:**  
 - opengl32.lib  
 - glew32.lib  
 - glew32s.lib  
